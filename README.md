@@ -30,3 +30,7 @@ In Visual Studio, use **Test > Run All Tests**. At first almost every test fails
 - To build a new list, start with `new List<T>()` and `Add` to it in a loop.
 - Before reading a dictionary key, check it with `ContainsKey`, or use `TryGetValue`.
 - To count things, use the thing as the key and its count as the value.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
