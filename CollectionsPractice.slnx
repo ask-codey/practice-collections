@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CollectionsPractice/CollectionsPractice.csproj" />
+  <Project Path="CollectionsPractice.Tests/CollectionsPractice.Tests.csproj" />
+</Solution>
