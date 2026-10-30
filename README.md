@@ -1,8 +1,8 @@
-# Practice: Collections
+# Exercise: Collections
 
-Practice code for the lesson **Practice: Collections** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Collections** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
-Fourteen problems with lists and dictionaries, in two classes in the `CollectionsPractice` project:
+Fourteen problems with lists and dictionaries, in two classes in the `CollectionsExercise` project:
 
 - `ListProblems.cs`: converting, filtering and searching `List<T>`s
 - `DictionaryProblems.cs`: looking up, counting and combining with `Dictionary<TKey, TValue>`
@@ -12,10 +12,10 @@ Every method returns an empty collection or a wrong value for now. The comment a
 ## Run it
 
 ```bash
-dotnet run --project CollectionsPractice
+dotnet run --project CollectionsExercise
 ```
 
-In Visual Studio, open `CollectionsPractice.slnx` and press **Ctrl+F5**.
+In Visual Studio, open `CollectionsExercise.slnx` and press **Ctrl+F5**.
 
 ## Check your work
 
